@@ -26,11 +26,11 @@ function convertToBool(text, fault = 'true') {
 //--------------------------Mr Frank---------------------------------------
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID || "ENTER YOUR SUBZERO SESSION HERE",
+SESSION_ID: process.env.SESSION_ID || "zZYhFSYZ#kWJHu07bLGpCI6iND9VtOVG95SrulfiAPcRAGWh1634",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
 OWNER_NUMBER: process.env.OWNER_NUMBER || "18062212660",
 MODE: process.env.MODE || "public",  // PRIVATE OR PUBLIC
-AUTO_VOICE: process.env.AUTO_VOICE || "true",
+AUTO_VOICE: process.env.AUTO_VOICE || "false",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg", // DO NOT CHANGE
